@@ -1,0 +1,22 @@
+{
+  "name": "fastify-standardize-response",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.5",
+  "dependencies": {
+    "fastify": "^5.2.2"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/node": "^22.13.14",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
